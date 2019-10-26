@@ -1,5 +1,6 @@
 # MusicGenerationAI
 Create sequences of pop music as midi files using Tensorflow RNN
+https://github.com/SMak06/MusicGenerationAI/blob/master/CSE401_project.pdf
 
 ## Overview
 Use TensorFlow to generate short sequences of music with a [Restricted Boltzmann Machine](http://deeplearning4j.org/restrictedboltzmannmachine.html). 
