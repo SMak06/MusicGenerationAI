@@ -7,7 +7,7 @@ Original code comes from YouTube, see here: (https://youtu.be/ZE7qWXX05T0)
 
 ## Dependencies
 
-  * [Tensorflow](https://www.tensorflow.org/versions/r0.10/get_started/os_setup.html)
+  * [Tensorflow](https://www.tensorflow.org/install)
   * pandas
   * numpy
   * msgpack-python
