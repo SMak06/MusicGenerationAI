@@ -28,7 +28,7 @@ Original code comes from YouTube, see here: (https://youtu.be/ZE7qWXX05T0)
 ## Usage
 To train the model and create music, simply clone this directory and run
 ```
-python rbm_chords.py
+python chords.py
 ```
 
 The training data goes in the pop_music_midi folder. You have to use MIDI files. You can find some [here](http://www.midiworld.com/files/).
